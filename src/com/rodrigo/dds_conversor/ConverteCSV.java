@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 class ConverteCSV {
 	
-	private StringBuilder stringBuilder;
+	private StringBuilder stringBuilder; 
 	private String caminho_destino_txt, caminho_destino_csv;
 	private String nome_arquivo_sem_extensao, data;
 		
